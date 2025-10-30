@@ -1,22 +1,22 @@
-🐾 Connect Pet
+##🐾 Connect Pet
 
-Connect Pet é uma aplicação desenvolvida para facilitar o processo de adoção de animais, conectando pessoas que desejam adotar com abrigos e tutores que precisam encontrar um novo lar para seus pets. O objetivo é promover a adoção responsável e simplificar a comunicação entre adotantes e instituições.
+O **Connect Pet** é uma aplicação criada com o propósito de conectar pessoas que desejam adotar animais com abrigos, ONGs e tutores que precisam encontrar um novo lar para seus pets.
+Mais do que uma plataforma, o Connect Pet é um espaço de empatia, amor e responsabilidade — onde cada conexão pode mudar uma vida.
 
-🚀 Funcionalidades
 
-🐶 Catálogo de animais disponíveis com fotos, descrições e informações detalhadas (idade, raça, porte, vacinação, etc.).
 
-❤️ Sistema de adoção — envie uma solicitação diretamente para o abrigo ou tutor.
 
-👤 Cadastro de usuários — perfis separados para adotantes, ONGs e protetores independentes.
+## 🌍 Sobre o Projeto
 
-🔍 Filtros de busca — encontre pets por tipo, localização, porte e outras preferências.
+A adoção de animais é um ato de amor e solidariedade, mas muitas vezes o processo pode ser difícil, desorganizado ou inacessível.
+Pensando nisso, o **Connect Pet** nasceu para simplificar e tornar mais humano o encontro entre quem quer adotar e quem precisa doar.
 
-📍 Geolocalização — visualize animais próximos à sua região.
+Nosso objetivo é promover a **adoção responsável**, reduzir o número de animais em situação de abandono e fortalecer a rede de proteção animal.
 
-💬 Chat integrado para facilitar a comunicação entre adotante e responsável pelo animal.
 
-🌍 Objetivo Social
 
-O Connect Pet foi criado com o propósito de reduzir o número de animais abandonados e incentivar a adoção responsável.
-Acreditamos que a tecnologia pode ser uma ponte poderosa entre amor e oportunidade — conectando pessoas dispostas a mudar uma vida com pets que aguardam um lar.
+## 💙 Missão
+
+Conectar corações — pessoas e animais — de forma simples, segura e transparente.
+Cada adoção representa uma nova chance de amor e cuidado, e o Connect Pet existe para tornar isso possível.
+
