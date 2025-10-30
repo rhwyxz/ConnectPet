@@ -1,4 +1,4 @@
-##🐾 Connect Pet
+## 🐾 Connect Pet
 
 O **Connect Pet** é uma aplicação criada com o propósito de conectar pessoas que desejam adotar animais com abrigos, ONGs e tutores que precisam encontrar um novo lar para seus pets.
 Mais do que uma plataforma, o Connect Pet é um espaço de empatia, amor e responsabilidade — onde cada conexão pode mudar uma vida.
